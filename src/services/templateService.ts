@@ -2,14 +2,6 @@
 import { FormData } from '../types';
 import { TEMPLATE_ID, TEMPLATE_EN } from '../constants';
 
-function getTodayDate(locale: string): string {
-    return new Date().toLocaleDateString(locale, {
-        year: 'numeric',
-        month: 'long',
-        day: 'numeric',
-    });
-}
-
 function escapeRegExp(string: string) {
   return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); // $& means the whole matched string
 }
