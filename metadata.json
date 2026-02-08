@@ -1,0 +1,19 @@
+{
+  "name": "Job Application Letter Generator",
+  "description": "Create professional job application letters in seconds. This free online tool helps you write a cover letter with a built-in template or by connecting to your own Ollama AI endpoint for custom generation. Supports both Indonesian and English, features dark/light modes, and allows you to easily copy or send the letter via email.",
+  "keywords": [
+    "job application letter",
+    "cover letter generator",
+    "surat lamaran kerja",
+    "free tool",
+    "online generator",
+    "Ollama",
+    "AI writer",
+    "job search",
+    "career tools",
+    "resume helper",
+    "Indonesian",
+    "English"
+  ],
+  "requestFramePermissions": []
+}
